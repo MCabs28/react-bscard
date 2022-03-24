@@ -1,0 +1,20 @@
+.info-style{
+    padding: 30px;
+    color: white;
+    
+}
+
+.about, .interest{
+    font-size: 18px;
+}
+
+.interest{
+    margin-top: 10px;
+}
+
+.p-info{
+    font-size: 10px;
+    margin-top: 2px;
+    max-width: 260px;
+    line-height: 1rem;
+}

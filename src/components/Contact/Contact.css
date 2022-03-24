@@ -1,0 +1,55 @@
+.contact-style{
+
+    margin-top: 15px;
+    text-align: center;
+}
+
+.name{
+    font-size: 25px;
+    color: #fff;
+}
+.position{
+    color: #007bff	;
+    font-size: 13px;
+    margin-top: 3px;
+}
+
+.web-link{
+    margin-top: 10px;
+    font-size: 10px;
+    color: #fff;
+}
+
+.btns-contact{
+    margin-top: 17px;
+    display: flex;
+    justify-content: space-around;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.btn-email{
+    padding: 9px;
+    border-radius: 6px;
+    width:41%;
+    border: none;
+    cursor: pointer;
+}
+
+.btn-linkedin{
+    padding: 9px;
+    border-radius: 6px;
+    width:41%;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+.contact-icon {
+    line-height: 10px;
+    overflow: hidden;
+    margin-right: 2px;
+}
